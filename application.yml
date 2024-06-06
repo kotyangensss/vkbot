@@ -1,0 +1,4 @@
+vk:
+  group-id: YOUR_GROUP_ID
+  confirmation-token: YOUR_CONFIRMATION_TOKEN
+  access-token: YOUR_ACCESS_TOKEN
